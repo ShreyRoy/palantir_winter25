@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="/static/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tree Health Dashboard</title>
+</head>
+<body>
+    <h1>Tree Health Feature Importance</h1>
+    <img src="data:image/png;base64,{{ plot_url }}" alt="Feature Importance">
+    <a href="/facts">Learn More About Random Forest and Feature Importance</a>
+    <h2>Predict Single Tree Health</h2>
+    {% if prediction %}
+        <p><strong>Predicted Health Status:</strong> {{ prediction }}</p>
+    {% elif error %}
+        <p style="color:red;"><strong>Error:</strong> {{ error }}</p>
+    {% endif %}
+    
+    <form action="/predict" method="POST">
+        {% for feature in ['Latitude', 'Longitude', 'DBH', 'Tree_Height', 'Crown_Width_North_South', 
+                           'Crown_Width_East_West', 'Slope', 'Elevation', 'Soil_TN', 'Soil_TP', 
+                           'Soil_AP', 'Soil_AN', 'Menhinick_Index', 'Gleason_Index', 
+                           'Disturbance_Level', 'Fire_Risk_Index'] %}
+            <label for="{{ feature }}">{{ feature }}</label>
+            <input type="text" id="{{ feature }}" name="{{ feature }}" value="{{ form_data.get(feature, '') }}" required><br>
+        {% endfor %}
+        <button type="submit">Predict</button>
+    </form>    
+
+    <h2>Upload Data for Batch Predictions</h2>
+    <form action="/upload" method="POST" enctype="multipart/form-data">
+        <input type="file" name="file" accept=".csv" required>
+        <button type="submit">Upload</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="/static/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facts About Random Forest</title>
+</head>
+<body>
+    <h1>Why Random Forest?</h1>
+    <ul>
+        <li>Random Forest is a robust machine learning algorithm that excels at classification tasks 
+            by combining the results of multiple decision trees. 
+            It works well with large datasets and can handle both numerical and categorical data. Most importantly 
+            it is able to give us detailed information on feature importance, allowing us to find specific patterns in the data.</li>
+    </ul>
+    <h2>Key Advantages of Random Forest</h2>
+    <ul>
+        <li>Handles missing data and outliers effectively.</li>
+        <li>Reduces overfitting through the ensemble approach.</li>
+        <li>Provides feature importance scores to understand influential factors.</li>
+        <li>Works well with high-dimensional data and non-linear relationships.</li>
+    </ul>
+
+    <h1>Importance of Features</h1>
+    <p>
+        Below is the feature importance for predicting tree health, determined by the Random Forest model:
+    </p>
+    <img src="/static/feature_importance.png" alt="Feature Importance">
+    <p>
+        These feature importances highlight the critical factors affecting tree health, such as Disturbance_Level, 
+        Gleason_Index, and Tree_Height.
+    </p>
+
+    <a href="/">Back to Home</a>
+</body>
+</html>

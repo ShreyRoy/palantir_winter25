@@ -1,0 +1,114 @@
+/* General Styles */
+body {
+    background-color: #121212; /* Dark background */
+    color: #e0e0e0; /* Light text color */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    color: #bb86fc; /* Purple accent color */
+    margin-left: 20px;
+}
+
+a {
+    color: #bb86fc;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Navigation Links */
+nav {
+    background-color: #1e1e1e;
+    padding: 10px 20px;
+    text-align: center;
+    border-bottom: 2px solid #bb86fc;
+}
+
+nav a {
+    margin: 0 15px;
+    font-size: 1.1em;
+    color: #e0e0e0;
+}
+
+nav a:hover {
+    color: #bb86fc;
+}
+
+/* Form Styling */
+form {
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 500px;
+    margin: 20px auto;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="text"], input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: #252525;
+    color: #e0e0e0;
+}
+
+button {
+    background-color: #bb86fc;
+    color: #121212;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+button:hover {
+    background-color: #9c68e4;
+}
+
+/* Feature Importance Image */
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    border: 3px solid #bb86fc;
+    border-radius: 10px;
+}
+
+/* Error and Success Messages */
+p {
+    text-align: center;
+}
+
+p strong {
+    color: #bb86fc;
+}
+
+p.error {
+    color: #cf6679; /* Red for errors */
+}
+
+/* Footer */
+footer {
+    background-color: #1e1e1e;
+    color: #757575;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+    border-top: 2px solid #bb86fc;
+}

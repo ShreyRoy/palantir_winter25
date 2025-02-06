@@ -1,0 +1,1001 @@
+Plot_ID,Health_Status,Predicted_Health_Status
+1,Healthy,Healthy
+2,Very Healthy,Very Healthy
+3,Healthy,Healthy
+4,Unhealthy,Unhealthy
+5,Unhealthy,Unhealthy
+6,Healthy,Healthy
+7,Healthy,Healthy
+8,Healthy,Healthy
+9,Healthy,Healthy
+10,Healthy,Healthy
+11,Unhealthy,Unhealthy
+12,Healthy,Healthy
+13,Healthy,Healthy
+14,Unhealthy,Unhealthy
+15,Very Healthy,Very Healthy
+16,Healthy,Healthy
+17,Unhealthy,Unhealthy
+18,Healthy,Healthy
+19,Unhealthy,Unhealthy
+20,Unhealthy,Unhealthy
+21,Healthy,Healthy
+22,Healthy,Healthy
+23,Unhealthy,Unhealthy
+24,Healthy,Healthy
+25,Unhealthy,Unhealthy
+26,Healthy,Healthy
+27,Healthy,Healthy
+28,Very Healthy,Very Healthy
+29,Healthy,Healthy
+30,Unhealthy,Unhealthy
+31,Healthy,Healthy
+32,Healthy,Healthy
+33,Unhealthy,Unhealthy
+34,Healthy,Healthy
+35,Sub-healthy,Sub-healthy
+36,Sub-healthy,Sub-healthy
+37,Healthy,Healthy
+38,Unhealthy,Unhealthy
+39,Sub-healthy,Sub-healthy
+40,Healthy,Healthy
+41,Healthy,Healthy
+42,Unhealthy,Unhealthy
+43,Healthy,Healthy
+44,Unhealthy,Unhealthy
+45,Very Healthy,Very Healthy
+46,Healthy,Healthy
+47,Unhealthy,Unhealthy
+48,Healthy,Healthy
+49,Healthy,Healthy
+50,Sub-healthy,Sub-healthy
+51,Sub-healthy,Sub-healthy
+52,Very Healthy,Very Healthy
+53,Unhealthy,Unhealthy
+54,Healthy,Healthy
+55,Unhealthy,Unhealthy
+56,Very Healthy,Very Healthy
+57,Healthy,Healthy
+58,Unhealthy,Unhealthy
+59,Healthy,Healthy
+60,Healthy,Healthy
+61,Unhealthy,Unhealthy
+62,Healthy,Healthy
+63,Unhealthy,Unhealthy
+64,Healthy,Healthy
+65,Unhealthy,Unhealthy
+66,Sub-healthy,Sub-healthy
+67,Unhealthy,Unhealthy
+68,Healthy,Healthy
+69,Healthy,Healthy
+70,Very Healthy,Very Healthy
+71,Very Healthy,Very Healthy
+72,Healthy,Healthy
+73,Unhealthy,Unhealthy
+74,Unhealthy,Unhealthy
+75,Unhealthy,Unhealthy
+76,Healthy,Healthy
+77,Unhealthy,Unhealthy
+78,Healthy,Healthy
+79,Unhealthy,Unhealthy
+80,Healthy,Healthy
+81,Very Healthy,Very Healthy
+82,Healthy,Healthy
+83,Healthy,Healthy
+84,Unhealthy,Unhealthy
+85,Healthy,Healthy
+86,Unhealthy,Unhealthy
+87,Healthy,Healthy
+88,Unhealthy,Unhealthy
+89,Healthy,Healthy
+90,Unhealthy,Unhealthy
+91,Healthy,Healthy
+92,Very Healthy,Very Healthy
+93,Healthy,Healthy
+94,Healthy,Healthy
+95,Unhealthy,Unhealthy
+96,Unhealthy,Unhealthy
+97,Healthy,Healthy
+98,Healthy,Healthy
+99,Healthy,Healthy
+100,Unhealthy,Unhealthy
+101,Sub-healthy,Sub-healthy
+102,Unhealthy,Unhealthy
+103,Healthy,Healthy
+104,Healthy,Healthy
+105,Sub-healthy,Sub-healthy
+106,Healthy,Healthy
+107,Unhealthy,Unhealthy
+108,Sub-healthy,Unhealthy
+109,Healthy,Healthy
+110,Healthy,Healthy
+111,Very Healthy,Very Healthy
+112,Healthy,Healthy
+113,Very Healthy,Very Healthy
+114,Unhealthy,Unhealthy
+115,Unhealthy,Unhealthy
+116,Unhealthy,Unhealthy
+117,Unhealthy,Unhealthy
+118,Healthy,Healthy
+119,Unhealthy,Unhealthy
+120,Healthy,Healthy
+121,Unhealthy,Unhealthy
+122,Unhealthy,Unhealthy
+123,Healthy,Healthy
+124,Healthy,Healthy
+125,Healthy,Healthy
+126,Healthy,Healthy
+127,Unhealthy,Unhealthy
+128,Healthy,Healthy
+129,Unhealthy,Unhealthy
+130,Healthy,Healthy
+131,Healthy,Healthy
+132,Unhealthy,Unhealthy
+133,Unhealthy,Unhealthy
+134,Unhealthy,Unhealthy
+135,Healthy,Healthy
+136,Unhealthy,Unhealthy
+137,Unhealthy,Unhealthy
+138,Healthy,Healthy
+139,Unhealthy,Unhealthy
+140,Healthy,Healthy
+141,Healthy,Healthy
+142,Very Healthy,Very Healthy
+143,Unhealthy,Unhealthy
+144,Unhealthy,Unhealthy
+145,Healthy,Healthy
+146,Healthy,Healthy
+147,Very Healthy,Very Healthy
+148,Very Healthy,Very Healthy
+149,Very Healthy,Very Healthy
+150,Unhealthy,Unhealthy
+151,Unhealthy,Unhealthy
+152,Sub-healthy,Sub-healthy
+153,Very Healthy,Very Healthy
+154,Healthy,Healthy
+155,Healthy,Healthy
+156,Very Healthy,Very Healthy
+157,Healthy,Healthy
+158,Healthy,Healthy
+159,Healthy,Healthy
+160,Healthy,Healthy
+161,Healthy,Healthy
+162,Sub-healthy,Sub-healthy
+163,Healthy,Healthy
+164,Healthy,Healthy
+165,Healthy,Healthy
+166,Unhealthy,Unhealthy
+167,Unhealthy,Unhealthy
+168,Unhealthy,Unhealthy
+169,Healthy,Healthy
+170,Healthy,Healthy
+171,Healthy,Healthy
+172,Unhealthy,Unhealthy
+173,Unhealthy,Unhealthy
+174,Unhealthy,Unhealthy
+175,Unhealthy,Unhealthy
+176,Healthy,Healthy
+177,Healthy,Healthy
+178,Healthy,Healthy
+179,Healthy,Healthy
+180,Unhealthy,Unhealthy
+181,Unhealthy,Unhealthy
+182,Unhealthy,Unhealthy
+183,Healthy,Healthy
+184,Healthy,Healthy
+185,Unhealthy,Unhealthy
+186,Very Healthy,Very Healthy
+187,Healthy,Healthy
+188,Unhealthy,Unhealthy
+189,Healthy,Healthy
+190,Healthy,Healthy
+191,Healthy,Healthy
+192,Unhealthy,Unhealthy
+193,Unhealthy,Unhealthy
+194,Healthy,Healthy
+195,Unhealthy,Unhealthy
+196,Healthy,Healthy
+197,Very Healthy,Very Healthy
+198,Very Healthy,Very Healthy
+199,Sub-healthy,Sub-healthy
+200,Healthy,Healthy
+201,Very Healthy,Very Healthy
+202,Healthy,Healthy
+203,Healthy,Healthy
+204,Unhealthy,Unhealthy
+205,Unhealthy,Unhealthy
+206,Healthy,Healthy
+207,Unhealthy,Unhealthy
+208,Very Healthy,Very Healthy
+209,Healthy,Healthy
+210,Unhealthy,Unhealthy
+211,Unhealthy,Unhealthy
+212,Healthy,Healthy
+213,Healthy,Healthy
+214,Unhealthy,Unhealthy
+215,Healthy,Healthy
+216,Sub-healthy,Sub-healthy
+217,Healthy,Healthy
+218,Unhealthy,Unhealthy
+219,Unhealthy,Unhealthy
+220,Unhealthy,Unhealthy
+221,Unhealthy,Unhealthy
+222,Healthy,Healthy
+223,Healthy,Healthy
+224,Sub-healthy,Sub-healthy
+225,Unhealthy,Unhealthy
+226,Unhealthy,Unhealthy
+227,Healthy,Healthy
+228,Unhealthy,Unhealthy
+229,Healthy,Healthy
+230,Unhealthy,Unhealthy
+231,Healthy,Healthy
+232,Healthy,Healthy
+233,Sub-healthy,Sub-healthy
+234,Healthy,Healthy
+235,Unhealthy,Unhealthy
+236,Sub-healthy,Sub-healthy
+237,Healthy,Healthy
+238,Unhealthy,Unhealthy
+239,Healthy,Healthy
+240,Unhealthy,Unhealthy
+241,Healthy,Healthy
+242,Healthy,Healthy
+243,Healthy,Healthy
+244,Very Healthy,Very Healthy
+245,Healthy,Healthy
+246,Healthy,Healthy
+247,Very Healthy,Very Healthy
+248,Healthy,Healthy
+249,Very Healthy,Very Healthy
+250,Healthy,Healthy
+251,Unhealthy,Unhealthy
+252,Healthy,Healthy
+253,Healthy,Healthy
+254,Healthy,Healthy
+255,Healthy,Healthy
+256,Unhealthy,Unhealthy
+257,Very Healthy,Very Healthy
+258,Healthy,Healthy
+259,Healthy,Healthy
+260,Very Healthy,Very Healthy
+261,Healthy,Healthy
+262,Very Healthy,Very Healthy
+263,Unhealthy,Unhealthy
+264,Sub-healthy,Sub-healthy
+265,Very Healthy,Very Healthy
+266,Sub-healthy,Sub-healthy
+267,Unhealthy,Unhealthy
+268,Healthy,Healthy
+269,Healthy,Healthy
+270,Unhealthy,Unhealthy
+271,Unhealthy,Unhealthy
+272,Sub-healthy,Sub-healthy
+273,Unhealthy,Unhealthy
+274,Very Healthy,Very Healthy
+275,Healthy,Healthy
+276,Healthy,Healthy
+277,Healthy,Healthy
+278,Very Healthy,Very Healthy
+279,Healthy,Healthy
+280,Very Healthy,Very Healthy
+281,Healthy,Healthy
+282,Sub-healthy,Sub-healthy
+283,Unhealthy,Unhealthy
+284,Healthy,Healthy
+285,Healthy,Healthy
+286,Sub-healthy,Sub-healthy
+287,Unhealthy,Unhealthy
+288,Very Healthy,Very Healthy
+289,Very Healthy,Very Healthy
+290,Healthy,Healthy
+291,Healthy,Healthy
+292,Very Healthy,Very Healthy
+293,Unhealthy,Unhealthy
+294,Unhealthy,Unhealthy
+295,Healthy,Healthy
+296,Healthy,Healthy
+297,Very Healthy,Very Healthy
+298,Unhealthy,Unhealthy
+299,Healthy,Healthy
+300,Healthy,Healthy
+301,Healthy,Healthy
+302,Healthy,Healthy
+303,Healthy,Healthy
+304,Healthy,Healthy
+305,Sub-healthy,Sub-healthy
+306,Unhealthy,Unhealthy
+307,Healthy,Healthy
+308,Healthy,Healthy
+309,Healthy,Healthy
+310,Unhealthy,Unhealthy
+311,Very Healthy,Very Healthy
+312,Unhealthy,Unhealthy
+313,Healthy,Healthy
+314,Unhealthy,Unhealthy
+315,Healthy,Healthy
+316,Very Healthy,Very Healthy
+317,Unhealthy,Unhealthy
+318,Sub-healthy,Sub-healthy
+319,Very Healthy,Very Healthy
+320,Healthy,Healthy
+321,Unhealthy,Unhealthy
+322,Unhealthy,Unhealthy
+323,Unhealthy,Unhealthy
+324,Very Healthy,Very Healthy
+325,Unhealthy,Unhealthy
+326,Healthy,Healthy
+327,Very Healthy,Very Healthy
+328,Healthy,Healthy
+329,Sub-healthy,Sub-healthy
+330,Unhealthy,Unhealthy
+331,Unhealthy,Unhealthy
+332,Very Healthy,Very Healthy
+333,Sub-healthy,Sub-healthy
+334,Unhealthy,Unhealthy
+335,Healthy,Healthy
+336,Unhealthy,Unhealthy
+337,Unhealthy,Unhealthy
+338,Healthy,Healthy
+339,Healthy,Healthy
+340,Unhealthy,Unhealthy
+341,Very Healthy,Very Healthy
+342,Healthy,Healthy
+343,Healthy,Healthy
+344,Unhealthy,Unhealthy
+345,Very Healthy,Very Healthy
+346,Very Healthy,Very Healthy
+347,Healthy,Healthy
+348,Healthy,Healthy
+349,Healthy,Healthy
+350,Healthy,Healthy
+351,Unhealthy,Unhealthy
+352,Healthy,Healthy
+353,Very Healthy,Very Healthy
+354,Unhealthy,Unhealthy
+355,Sub-healthy,Sub-healthy
+356,Unhealthy,Unhealthy
+357,Healthy,Healthy
+358,Healthy,Healthy
+359,Healthy,Healthy
+360,Unhealthy,Unhealthy
+361,Very Healthy,Very Healthy
+362,Unhealthy,Unhealthy
+363,Unhealthy,Unhealthy
+364,Unhealthy,Unhealthy
+365,Very Healthy,Very Healthy
+366,Unhealthy,Unhealthy
+367,Healthy,Healthy
+368,Healthy,Healthy
+369,Unhealthy,Unhealthy
+370,Healthy,Healthy
+371,Sub-healthy,Sub-healthy
+372,Healthy,Healthy
+373,Healthy,Healthy
+374,Healthy,Healthy
+375,Unhealthy,Unhealthy
+376,Very Healthy,Very Healthy
+377,Very Healthy,Very Healthy
+378,Healthy,Healthy
+379,Sub-healthy,Sub-healthy
+380,Unhealthy,Unhealthy
+381,Healthy,Healthy
+382,Healthy,Healthy
+383,Unhealthy,Unhealthy
+384,Sub-healthy,Sub-healthy
+385,Unhealthy,Unhealthy
+386,Very Healthy,Very Healthy
+387,Healthy,Healthy
+388,Healthy,Healthy
+389,Healthy,Healthy
+390,Very Healthy,Very Healthy
+391,Healthy,Healthy
+392,Very Healthy,Very Healthy
+393,Healthy,Healthy
+394,Healthy,Healthy
+395,Very Healthy,Very Healthy
+396,Healthy,Healthy
+397,Healthy,Healthy
+398,Unhealthy,Unhealthy
+399,Healthy,Healthy
+400,Unhealthy,Unhealthy
+401,Sub-healthy,Sub-healthy
+402,Sub-healthy,Sub-healthy
+403,Very Healthy,Very Healthy
+404,Healthy,Healthy
+405,Unhealthy,Unhealthy
+406,Unhealthy,Unhealthy
+407,Very Healthy,Very Healthy
+408,Healthy,Healthy
+409,Healthy,Healthy
+410,Unhealthy,Unhealthy
+411,Healthy,Healthy
+412,Sub-healthy,Sub-healthy
+413,Sub-healthy,Sub-healthy
+414,Healthy,Healthy
+415,Very Healthy,Very Healthy
+416,Very Healthy,Very Healthy
+417,Unhealthy,Unhealthy
+418,Healthy,Healthy
+419,Sub-healthy,Sub-healthy
+420,Healthy,Healthy
+421,Healthy,Healthy
+422,Very Healthy,Very Healthy
+423,Healthy,Healthy
+424,Sub-healthy,Sub-healthy
+425,Very Healthy,Very Healthy
+426,Healthy,Healthy
+427,Healthy,Healthy
+428,Unhealthy,Unhealthy
+429,Very Healthy,Very Healthy
+430,Healthy,Healthy
+431,Healthy,Healthy
+432,Very Healthy,Very Healthy
+433,Unhealthy,Unhealthy
+434,Healthy,Healthy
+435,Healthy,Healthy
+436,Unhealthy,Unhealthy
+437,Sub-healthy,Sub-healthy
+438,Unhealthy,Unhealthy
+439,Very Healthy,Very Healthy
+440,Unhealthy,Unhealthy
+441,Healthy,Healthy
+442,Healthy,Healthy
+443,Healthy,Healthy
+444,Healthy,Healthy
+445,Healthy,Healthy
+446,Unhealthy,Unhealthy
+447,Unhealthy,Unhealthy
+448,Unhealthy,Unhealthy
+449,Unhealthy,Unhealthy
+450,Healthy,Healthy
+451,Unhealthy,Unhealthy
+452,Healthy,Healthy
+453,Very Healthy,Very Healthy
+454,Healthy,Healthy
+455,Healthy,Healthy
+456,Unhealthy,Unhealthy
+457,Very Healthy,Very Healthy
+458,Unhealthy,Unhealthy
+459,Very Healthy,Very Healthy
+460,Healthy,Healthy
+461,Healthy,Healthy
+462,Unhealthy,Unhealthy
+463,Healthy,Healthy
+464,Healthy,Healthy
+465,Healthy,Healthy
+466,Very Healthy,Very Healthy
+467,Healthy,Healthy
+468,Very Healthy,Very Healthy
+469,Very Healthy,Very Healthy
+470,Healthy,Healthy
+471,Unhealthy,Unhealthy
+472,Very Healthy,Very Healthy
+473,Healthy,Healthy
+474,Unhealthy,Unhealthy
+475,Unhealthy,Unhealthy
+476,Unhealthy,Unhealthy
+477,Very Healthy,Very Healthy
+478,Healthy,Healthy
+479,Very Healthy,Very Healthy
+480,Healthy,Healthy
+481,Healthy,Healthy
+482,Healthy,Healthy
+483,Healthy,Healthy
+484,Very Healthy,Very Healthy
+485,Very Healthy,Very Healthy
+486,Very Healthy,Very Healthy
+487,Unhealthy,Unhealthy
+488,Unhealthy,Unhealthy
+489,Unhealthy,Unhealthy
+490,Healthy,Healthy
+491,Healthy,Healthy
+492,Healthy,Healthy
+493,Healthy,Healthy
+494,Healthy,Healthy
+495,Healthy,Healthy
+496,Healthy,Healthy
+497,Healthy,Healthy
+498,Unhealthy,Unhealthy
+499,Unhealthy,Unhealthy
+500,Unhealthy,Unhealthy
+501,Healthy,Healthy
+502,Very Healthy,Very Healthy
+503,Healthy,Healthy
+504,Healthy,Healthy
+505,Very Healthy,Very Healthy
+506,Very Healthy,Very Healthy
+507,Very Healthy,Very Healthy
+508,Healthy,Healthy
+509,Healthy,Healthy
+510,Healthy,Healthy
+511,Unhealthy,Unhealthy
+512,Healthy,Healthy
+513,Very Healthy,Very Healthy
+514,Very Healthy,Very Healthy
+515,Unhealthy,Unhealthy
+516,Unhealthy,Unhealthy
+517,Unhealthy,Unhealthy
+518,Unhealthy,Unhealthy
+519,Sub-healthy,Sub-healthy
+520,Healthy,Healthy
+521,Unhealthy,Unhealthy
+522,Very Healthy,Very Healthy
+523,Unhealthy,Unhealthy
+524,Sub-healthy,Sub-healthy
+525,Sub-healthy,Sub-healthy
+526,Sub-healthy,Sub-healthy
+527,Very Healthy,Very Healthy
+528,Very Healthy,Very Healthy
+529,Healthy,Healthy
+530,Unhealthy,Unhealthy
+531,Unhealthy,Unhealthy
+532,Very Healthy,Very Healthy
+533,Healthy,Healthy
+534,Unhealthy,Unhealthy
+535,Healthy,Healthy
+536,Sub-healthy,Sub-healthy
+537,Sub-healthy,Sub-healthy
+538,Healthy,Healthy
+539,Healthy,Healthy
+540,Unhealthy,Unhealthy
+541,Healthy,Healthy
+542,Healthy,Healthy
+543,Unhealthy,Unhealthy
+544,Healthy,Healthy
+545,Very Healthy,Very Healthy
+546,Sub-healthy,Sub-healthy
+547,Unhealthy,Unhealthy
+548,Healthy,Healthy
+549,Unhealthy,Unhealthy
+550,Very Healthy,Very Healthy
+551,Healthy,Healthy
+552,Healthy,Healthy
+553,Unhealthy,Unhealthy
+554,Unhealthy,Unhealthy
+555,Unhealthy,Unhealthy
+556,Very Healthy,Very Healthy
+557,Sub-healthy,Sub-healthy
+558,Very Healthy,Very Healthy
+559,Unhealthy,Unhealthy
+560,Healthy,Healthy
+561,Healthy,Healthy
+562,Healthy,Healthy
+563,Sub-healthy,Sub-healthy
+564,Healthy,Healthy
+565,Unhealthy,Unhealthy
+566,Unhealthy,Unhealthy
+567,Healthy,Healthy
+568,Healthy,Healthy
+569,Unhealthy,Unhealthy
+570,Healthy,Healthy
+571,Healthy,Healthy
+572,Healthy,Healthy
+573,Unhealthy,Unhealthy
+574,Healthy,Healthy
+575,Healthy,Healthy
+576,Unhealthy,Unhealthy
+577,Sub-healthy,Sub-healthy
+578,Unhealthy,Unhealthy
+579,Very Healthy,Very Healthy
+580,Very Healthy,Very Healthy
+581,Very Healthy,Very Healthy
+582,Healthy,Healthy
+583,Healthy,Healthy
+584,Unhealthy,Unhealthy
+585,Unhealthy,Unhealthy
+586,Unhealthy,Unhealthy
+587,Healthy,Healthy
+588,Healthy,Healthy
+589,Unhealthy,Unhealthy
+590,Unhealthy,Unhealthy
+591,Very Healthy,Very Healthy
+592,Unhealthy,Unhealthy
+593,Very Healthy,Very Healthy
+594,Very Healthy,Very Healthy
+595,Unhealthy,Unhealthy
+596,Healthy,Healthy
+597,Healthy,Healthy
+598,Very Healthy,Very Healthy
+599,Healthy,Healthy
+600,Healthy,Healthy
+601,Healthy,Healthy
+602,Very Healthy,Very Healthy
+603,Sub-healthy,Sub-healthy
+604,Unhealthy,Unhealthy
+605,Healthy,Healthy
+606,Sub-healthy,Sub-healthy
+607,Very Healthy,Very Healthy
+608,Unhealthy,Unhealthy
+609,Very Healthy,Very Healthy
+610,Healthy,Healthy
+611,Healthy,Healthy
+612,Sub-healthy,Sub-healthy
+613,Healthy,Healthy
+614,Healthy,Healthy
+615,Healthy,Healthy
+616,Healthy,Healthy
+617,Healthy,Healthy
+618,Very Healthy,Very Healthy
+619,Very Healthy,Very Healthy
+620,Unhealthy,Unhealthy
+621,Healthy,Healthy
+622,Unhealthy,Unhealthy
+623,Healthy,Healthy
+624,Unhealthy,Unhealthy
+625,Healthy,Healthy
+626,Sub-healthy,Sub-healthy
+627,Healthy,Healthy
+628,Very Healthy,Very Healthy
+629,Very Healthy,Very Healthy
+630,Unhealthy,Unhealthy
+631,Healthy,Healthy
+632,Sub-healthy,Sub-healthy
+633,Healthy,Healthy
+634,Healthy,Healthy
+635,Healthy,Healthy
+636,Unhealthy,Unhealthy
+637,Unhealthy,Unhealthy
+638,Unhealthy,Unhealthy
+639,Healthy,Healthy
+640,Unhealthy,Unhealthy
+641,Sub-healthy,Sub-healthy
+642,Healthy,Healthy
+643,Unhealthy,Unhealthy
+644,Healthy,Healthy
+645,Healthy,Healthy
+646,Unhealthy,Unhealthy
+647,Unhealthy,Unhealthy
+648,Healthy,Healthy
+649,Healthy,Healthy
+650,Healthy,Healthy
+651,Unhealthy,Unhealthy
+652,Healthy,Healthy
+653,Very Healthy,Very Healthy
+654,Unhealthy,Unhealthy
+655,Unhealthy,Unhealthy
+656,Sub-healthy,Sub-healthy
+657,Healthy,Healthy
+658,Very Healthy,Very Healthy
+659,Healthy,Healthy
+660,Healthy,Healthy
+661,Healthy,Healthy
+662,Unhealthy,Unhealthy
+663,Unhealthy,Unhealthy
+664,Sub-healthy,Sub-healthy
+665,Very Healthy,Very Healthy
+666,Healthy,Healthy
+667,Healthy,Healthy
+668,Unhealthy,Unhealthy
+669,Sub-healthy,Sub-healthy
+670,Unhealthy,Unhealthy
+671,Sub-healthy,Sub-healthy
+672,Healthy,Healthy
+673,Unhealthy,Unhealthy
+674,Sub-healthy,Sub-healthy
+675,Very Healthy,Very Healthy
+676,Healthy,Healthy
+677,Sub-healthy,Sub-healthy
+678,Healthy,Healthy
+679,Very Healthy,Very Healthy
+680,Healthy,Healthy
+681,Unhealthy,Unhealthy
+682,Unhealthy,Unhealthy
+683,Unhealthy,Unhealthy
+684,Unhealthy,Unhealthy
+685,Very Healthy,Very Healthy
+686,Very Healthy,Very Healthy
+687,Very Healthy,Very Healthy
+688,Unhealthy,Unhealthy
+689,Sub-healthy,Sub-healthy
+690,Healthy,Healthy
+691,Healthy,Healthy
+692,Very Healthy,Very Healthy
+693,Healthy,Healthy
+694,Unhealthy,Unhealthy
+695,Healthy,Healthy
+696,Sub-healthy,Sub-healthy
+697,Very Healthy,Very Healthy
+698,Very Healthy,Very Healthy
+699,Healthy,Healthy
+700,Healthy,Healthy
+701,Unhealthy,Unhealthy
+702,Unhealthy,Unhealthy
+703,Healthy,Healthy
+704,Unhealthy,Unhealthy
+705,Healthy,Healthy
+706,Healthy,Healthy
+707,Unhealthy,Unhealthy
+708,Unhealthy,Unhealthy
+709,Sub-healthy,Sub-healthy
+710,Healthy,Healthy
+711,Unhealthy,Unhealthy
+712,Very Healthy,Very Healthy
+713,Unhealthy,Unhealthy
+714,Unhealthy,Unhealthy
+715,Unhealthy,Unhealthy
+716,Unhealthy,Unhealthy
+717,Unhealthy,Unhealthy
+718,Healthy,Healthy
+719,Healthy,Healthy
+720,Healthy,Healthy
+721,Healthy,Healthy
+722,Unhealthy,Unhealthy
+723,Very Healthy,Very Healthy
+724,Unhealthy,Unhealthy
+725,Healthy,Healthy
+726,Unhealthy,Unhealthy
+727,Healthy,Healthy
+728,Healthy,Healthy
+729,Sub-healthy,Sub-healthy
+730,Healthy,Healthy
+731,Sub-healthy,Sub-healthy
+732,Very Healthy,Very Healthy
+733,Healthy,Healthy
+734,Healthy,Healthy
+735,Unhealthy,Unhealthy
+736,Unhealthy,Unhealthy
+737,Healthy,Healthy
+738,Very Healthy,Very Healthy
+739,Unhealthy,Unhealthy
+740,Healthy,Healthy
+741,Healthy,Healthy
+742,Unhealthy,Unhealthy
+743,Very Healthy,Very Healthy
+744,Unhealthy,Unhealthy
+745,Healthy,Healthy
+746,Sub-healthy,Sub-healthy
+747,Unhealthy,Unhealthy
+748,Unhealthy,Unhealthy
+749,Unhealthy,Unhealthy
+750,Unhealthy,Unhealthy
+751,Unhealthy,Unhealthy
+752,Very Healthy,Very Healthy
+753,Healthy,Healthy
+754,Healthy,Healthy
+755,Sub-healthy,Sub-healthy
+756,Sub-healthy,Sub-healthy
+757,Healthy,Healthy
+758,Unhealthy,Unhealthy
+759,Unhealthy,Unhealthy
+760,Unhealthy,Unhealthy
+761,Unhealthy,Unhealthy
+762,Unhealthy,Unhealthy
+763,Healthy,Healthy
+764,Unhealthy,Unhealthy
+765,Unhealthy,Unhealthy
+766,Healthy,Healthy
+767,Very Healthy,Very Healthy
+768,Healthy,Healthy
+769,Sub-healthy,Sub-healthy
+770,Sub-healthy,Sub-healthy
+771,Unhealthy,Unhealthy
+772,Unhealthy,Unhealthy
+773,Healthy,Healthy
+774,Very Healthy,Very Healthy
+775,Very Healthy,Very Healthy
+776,Very Healthy,Very Healthy
+777,Very Healthy,Very Healthy
+778,Unhealthy,Unhealthy
+779,Unhealthy,Unhealthy
+780,Very Healthy,Very Healthy
+781,Unhealthy,Unhealthy
+782,Healthy,Healthy
+783,Healthy,Healthy
+784,Healthy,Healthy
+785,Very Healthy,Very Healthy
+786,Sub-healthy,Sub-healthy
+787,Healthy,Healthy
+788,Healthy,Healthy
+789,Unhealthy,Unhealthy
+790,Unhealthy,Unhealthy
+791,Sub-healthy,Sub-healthy
+792,Healthy,Healthy
+793,Unhealthy,Unhealthy
+794,Very Healthy,Very Healthy
+795,Healthy,Healthy
+796,Healthy,Healthy
+797,Healthy,Healthy
+798,Healthy,Healthy
+799,Healthy,Healthy
+800,Unhealthy,Unhealthy
+801,Healthy,Healthy
+802,Healthy,Healthy
+803,Unhealthy,Unhealthy
+804,Healthy,Healthy
+805,Unhealthy,Unhealthy
+806,Unhealthy,Unhealthy
+807,Healthy,Healthy
+808,Unhealthy,Unhealthy
+809,Sub-healthy,Sub-healthy
+810,Healthy,Healthy
+811,Unhealthy,Unhealthy
+812,Unhealthy,Unhealthy
+813,Unhealthy,Unhealthy
+814,Very Healthy,Very Healthy
+815,Sub-healthy,Sub-healthy
+816,Very Healthy,Very Healthy
+817,Healthy,Healthy
+818,Very Healthy,Very Healthy
+819,Unhealthy,Unhealthy
+820,Unhealthy,Unhealthy
+821,Unhealthy,Unhealthy
+822,Healthy,Healthy
+823,Very Healthy,Very Healthy
+824,Healthy,Healthy
+825,Unhealthy,Unhealthy
+826,Healthy,Healthy
+827,Healthy,Healthy
+828,Healthy,Healthy
+829,Healthy,Healthy
+830,Unhealthy,Unhealthy
+831,Healthy,Healthy
+832,Healthy,Healthy
+833,Healthy,Healthy
+834,Unhealthy,Unhealthy
+835,Healthy,Healthy
+836,Healthy,Healthy
+837,Very Healthy,Very Healthy
+838,Sub-healthy,Sub-healthy
+839,Very Healthy,Very Healthy
+840,Unhealthy,Unhealthy
+841,Unhealthy,Unhealthy
+842,Unhealthy,Unhealthy
+843,Unhealthy,Unhealthy
+844,Healthy,Healthy
+845,Unhealthy,Unhealthy
+846,Healthy,Healthy
+847,Unhealthy,Unhealthy
+848,Very Healthy,Very Healthy
+849,Healthy,Healthy
+850,Healthy,Healthy
+851,Unhealthy,Unhealthy
+852,Healthy,Healthy
+853,Healthy,Healthy
+854,Unhealthy,Unhealthy
+855,Healthy,Healthy
+856,Unhealthy,Unhealthy
+857,Healthy,Healthy
+858,Healthy,Healthy
+859,Unhealthy,Unhealthy
+860,Healthy,Healthy
+861,Unhealthy,Unhealthy
+862,Very Healthy,Very Healthy
+863,Healthy,Healthy
+864,Healthy,Healthy
+865,Healthy,Healthy
+866,Unhealthy,Unhealthy
+867,Unhealthy,Unhealthy
+868,Very Healthy,Very Healthy
+869,Very Healthy,Very Healthy
+870,Sub-healthy,Sub-healthy
+871,Healthy,Healthy
+872,Unhealthy,Unhealthy
+873,Healthy,Healthy
+874,Unhealthy,Unhealthy
+875,Sub-healthy,Sub-healthy
+876,Healthy,Healthy
+877,Healthy,Healthy
+878,Unhealthy,Unhealthy
+879,Unhealthy,Unhealthy
+880,Healthy,Healthy
+881,Unhealthy,Unhealthy
+882,Unhealthy,Unhealthy
+883,Healthy,Healthy
+884,Sub-healthy,Sub-healthy
+885,Very Healthy,Very Healthy
+886,Healthy,Healthy
+887,Unhealthy,Unhealthy
+888,Healthy,Healthy
+889,Healthy,Healthy
+890,Healthy,Healthy
+891,Unhealthy,Unhealthy
+892,Healthy,Healthy
+893,Very Healthy,Very Healthy
+894,Unhealthy,Unhealthy
+895,Healthy,Healthy
+896,Healthy,Healthy
+897,Healthy,Healthy
+898,Very Healthy,Very Healthy
+899,Unhealthy,Unhealthy
+900,Unhealthy,Unhealthy
+901,Healthy,Healthy
+902,Healthy,Healthy
+903,Healthy,Healthy
+904,Healthy,Healthy
+905,Healthy,Healthy
+906,Unhealthy,Unhealthy
+907,Very Healthy,Very Healthy
+908,Healthy,Healthy
+909,Unhealthy,Unhealthy
+910,Healthy,Healthy
+911,Unhealthy,Unhealthy
+912,Sub-healthy,Sub-healthy
+913,Unhealthy,Unhealthy
+914,Unhealthy,Unhealthy
+915,Very Healthy,Very Healthy
+916,Healthy,Healthy
+917,Healthy,Healthy
+918,Healthy,Healthy
+919,Unhealthy,Unhealthy
+920,Unhealthy,Unhealthy
+921,Very Healthy,Very Healthy
+922,Healthy,Healthy
+923,Healthy,Healthy
+924,Sub-healthy,Sub-healthy
+925,Unhealthy,Unhealthy
+926,Unhealthy,Unhealthy
+927,Healthy,Healthy
+928,Very Healthy,Very Healthy
+929,Healthy,Healthy
+930,Sub-healthy,Sub-healthy
+931,Unhealthy,Unhealthy
+932,Healthy,Healthy
+933,Very Healthy,Very Healthy
+934,Unhealthy,Unhealthy
+935,Healthy,Healthy
+936,Unhealthy,Unhealthy
+937,Healthy,Healthy
+938,Healthy,Healthy
+939,Unhealthy,Unhealthy
+940,Healthy,Healthy
+941,Healthy,Healthy
+942,Healthy,Healthy
+943,Healthy,Healthy
+944,Healthy,Healthy
+945,Healthy,Healthy
+946,Healthy,Healthy
+947,Unhealthy,Unhealthy
+948,Unhealthy,Unhealthy
+949,Healthy,Healthy
+950,Healthy,Healthy
+951,Unhealthy,Unhealthy
+952,Unhealthy,Unhealthy
+953,Healthy,Healthy
+954,Unhealthy,Unhealthy
+955,Unhealthy,Unhealthy
+956,Very Healthy,Very Healthy
+957,Very Healthy,Very Healthy
+958,Healthy,Healthy
+959,Unhealthy,Unhealthy
+960,Unhealthy,Unhealthy
+961,Healthy,Healthy
+962,Healthy,Healthy
+963,Sub-healthy,Sub-healthy
+964,Healthy,Healthy
+965,Unhealthy,Unhealthy
+966,Healthy,Healthy
+967,Healthy,Healthy
+968,Healthy,Healthy
+969,Healthy,Healthy
+970,Healthy,Healthy
+971,Very Healthy,Very Healthy
+972,Unhealthy,Unhealthy
+973,Sub-healthy,Sub-healthy
+974,Unhealthy,Unhealthy
+975,Healthy,Healthy
+976,Very Healthy,Very Healthy
+977,Healthy,Healthy
+978,Unhealthy,Unhealthy
+979,Healthy,Healthy
+980,Healthy,Healthy
+981,Very Healthy,Very Healthy
+982,Very Healthy,Very Healthy
+983,Unhealthy,Unhealthy
+984,Unhealthy,Unhealthy
+985,Healthy,Healthy
+986,Healthy,Healthy
+987,Healthy,Healthy
+988,Healthy,Healthy
+989,Unhealthy,Unhealthy
+990,Unhealthy,Unhealthy
+991,Healthy,Healthy
+992,Healthy,Healthy
+993,Very Healthy,Very Healthy
+994,Healthy,Healthy
+995,Very Healthy,Very Healthy
+996,Unhealthy,Unhealthy
+997,Healthy,Healthy
+998,Healthy,Healthy
+999,Very Healthy,Very Healthy
+1000,Healthy,Healthy
